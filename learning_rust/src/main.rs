@@ -316,3 +316,6 @@ fn test(var: &mut Vec<i32>){
 //     // println!("The vector contains a number 10 or not: {}", number_vector.contains(10)); //expected `&i32`, found integer
 //     println!("The vector contains a number 10 or not: {}", number_vector.contains(&10));
 // }
+
+
+//tets
